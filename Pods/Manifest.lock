@@ -1,0 +1,16 @@
+PODS:
+  - MSPeekCollectionViewDelegateImplementation (3.1.1)
+
+DEPENDENCIES:
+  - MSPeekCollectionViewDelegateImplementation
+
+SPEC REPOS:
+  trunk:
+    - MSPeekCollectionViewDelegateImplementation
+
+SPEC CHECKSUMS:
+  MSPeekCollectionViewDelegateImplementation: f86fd6a6ce284723343e8697a013f5294c05e745
+
+PODFILE CHECKSUM: 75bfb8c26ef3d1bda56bc676f46adbc4501c7252
+
+COCOAPODS: 1.9.3
