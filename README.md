@@ -5,10 +5,11 @@
 
 ## Code
 
-   override func viewDidLoad() {
+    override func viewDidLoad() {
         super.viewDidLoad()
+        
         startTimer()
-        }
+    }
   
     func startTimer() {
         _ =  Timer.scheduledTimer(timeInterval: 2, target: self, selector: #selector(self.scrollAutomatically), userInfo: nil, repeats: true)
